@@ -1,17 +1,21 @@
 import './App.css'
-import { Component1 } from 'z-library-a'
+import { accessTokenVar } from 'z-library-a'
 import AnotherComponent from './AnotherComponent'
-import { ComponentB, ComponentC } from 'z-library-b'
+import { ComponentB } from 'z-library-b'
+import { useReactiveVar } from '@apollo/client'
 
 function App() {
 
+  const app = useReactiveVar(accessTokenVar);
+
   return (
-    <Component1>
-      <div>Hello SPA</div>
+    <>
+      <div>Hello SPA {JSON.stringify(app)}</div>
+
+      {/* <UpdateButton /> */}
       <AnotherComponent/>
       <ComponentB />
-      <ComponentC />
-    </Component1>
+    </>
   )
 }
 
