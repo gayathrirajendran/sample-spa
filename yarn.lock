@@ -1820,15 +1820,15 @@ yocto-queue@^0.1.0:
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
 
-z-library-a@^0.0.16:
-  version "0.0.16"
-  resolved "https://registry.yarnpkg.com/z-library-a/-/z-library-a-0.0.16.tgz#49c5b9169fa890b897c12e970a7cfc18cd82db4c"
-  integrity sha512-XeWqYqIXeovmajsl5B23m4uRc97IrvydBew11MCs5L4q06XY+7SlamnfVnq8xMTGSAEyhh6DYGOD0eYaCVjtLA==
+z-library-a@^0.0.17:
+  version "0.0.17"
+  resolved "https://registry.yarnpkg.com/z-library-a/-/z-library-a-0.0.17.tgz#ab8a6b494ecaff776389ce3c490b116c469885ee"
+  integrity sha512-7Oq+NxHSotXYrm5JjAi32t28itpLz43xvomQC+LSpNovfAwkgqllXgTw99WFSHPtZvEyiDeuPZaSOAIOKnYuaw==
 
-z-library-b@^1.0.11:
-  version "1.0.11"
-  resolved "https://registry.yarnpkg.com/z-library-b/-/z-library-b-1.0.11.tgz#b103afb315aee16982d11132e9b1370ad199c066"
-  integrity sha512-RrUJ0Kt63ltLI5HR11BilpSUjvvI6DOV2L6aUABhQPtxiPYTtTYdadM1iu0O7lqrQdI31Z1Oc4xbW3w9Xquh5g==
+z-library-b@^1.0.12:
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/z-library-b/-/z-library-b-1.0.12.tgz#e5cf1e3fecfab76b4b646a550be63b248110ba94"
+  integrity sha512-Ph8PI1IMvb9dvLk3PT+HxDtj8IKMQybENPp+EYc9S72A5LzF+Jh25L0sGJw+z4J+syUjHR6QM8DO4Ese6qJLuw==
 
 zen-observable-ts@^1.2.5:
   version "1.2.5"
